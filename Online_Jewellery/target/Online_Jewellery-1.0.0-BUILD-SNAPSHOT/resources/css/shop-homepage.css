@@ -1,0 +1,10 @@
+.footer{
+	position: absolute;
+    width: 100%;
+
+    bottom: 0px;
+}
+.wrapper{
+	min-hight:100%;
+	position:relative;
+}
